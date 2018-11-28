@@ -1,16 +1,27 @@
 .main-section {
 	text-align: center;
 	padding: 0;
+	position: relative;
 }
 
 .section {
 	margin: 100px 0 100px 0;
 }
 
+.itunes {
+	position: absolute;
+	bottom: 0;
+}
+
+.vcenter {
+	display: flex;
+	align-items: center;
+}
+
 .title-header {
 	text-align: center;
 	font-size: 64px;
-	margin-top: 100px;
+	margin: 0;
 	font-weight: 100;
 	color: white;
 }
@@ -22,17 +33,37 @@
 
 .top-text {
 	position: absolute;
-	top: 25%;
 	left: 50%;
+	bottom: 25%;
+	transform: translate(-50%, -50%);
+}
+
+.itunes-svg {
+	position: absolute;
+	left: 25px;
+	bottom: -86px;
 	transform: translate(-50%, -50%);
 }
 
 .figure {
 	margin: 0;
 }
+.figure.figure-gif {
+	padding: 10px;
+}
+
+@media only screen and (max-width: 767px) {
+	.figure.figure-gif {
+		padding: 20px;
+	}
+	.gif-row {
+		padding-top: 0px;
+	}
+}
+
 .image {
 	width: 100%;
-	min-width: 478px;
+	min-width: 720px;
 }
 
 .hero-copy {
@@ -40,4 +71,12 @@
 	font-size: 24px;
 	font-weight: 300;
 	width: 80%;
+}
+
+.gif {
+	width: 100%;
+}
+
+.gif-row {
+	padding-top: 10px;
 }
