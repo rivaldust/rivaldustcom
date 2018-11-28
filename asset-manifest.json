@@ -1,7 +1,7 @@
 {
   "main.css": "/rivaldustcom/static/css/main.21e0c524.chunk.css",
-  "main.js": "/rivaldustcom/static/js/main.be3f4845.chunk.js",
-  "main.js.map": "/rivaldustcom/static/js/main.be3f4845.chunk.js.map",
+  "main.js": "/rivaldustcom/static/js/main.2662fbe1.chunk.js",
+  "main.js.map": "/rivaldustcom/static/js/main.2662fbe1.chunk.js.map",
   "static/css/1.d9378272.chunk.css": "/rivaldustcom/static/css/1.d9378272.chunk.css",
   "static/js/1.30c7d205.chunk.js": "/rivaldustcom/static/js/1.30c7d205.chunk.js",
   "static/js/1.30c7d205.chunk.js.map": "/rivaldustcom/static/js/1.30c7d205.chunk.js.map",
@@ -12,6 +12,6 @@
   "static/css/main.21e0c524.chunk.css.map": "/rivaldustcom/static/css/main.21e0c524.chunk.css.map",
   "static/css/1.d9378272.chunk.css.map": "/rivaldustcom/static/css/1.d9378272.chunk.css.map",
   "index.html": "/rivaldustcom/index.html",
-  "precache-manifest.c728f463e1ee12c1d2fa2987d4bdcbaf.js": "/rivaldustcom/precache-manifest.c728f463e1ee12c1d2fa2987d4bdcbaf.js",
+  "precache-manifest.d75c1c35ae9c5dfa2c4447af7ec4d46b.js": "/rivaldustcom/precache-manifest.d75c1c35ae9c5dfa2c4447af7ec4d46b.js",
   "service-worker.js": "/rivaldustcom/service-worker.js"
 }

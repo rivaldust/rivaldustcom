@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "be3f48451a87c1059569",
+    "revision": "2662fbe136213af9e5a3",
     "url": "/rivaldustcom/static/css/main.21e0c524.chunk.css"
   },
   {
-    "revision": "be3f48451a87c1059569",
-    "url": "/rivaldustcom/static/js/main.be3f4845.chunk.js"
+    "revision": "2662fbe136213af9e5a3",
+    "url": "/rivaldustcom/static/js/main.2662fbe1.chunk.js"
   },
   {
     "revision": "30c7d205af169fb1d20d",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/rivaldustcom/static/media/Sniper_CityScape.ac2be595.jpg"
   },
   {
-    "revision": "d30769bc994ab3ad9c46c60ac7f4fbf1",
+    "revision": "6acac855178b74d2e149245d087973dd",
     "url": "/rivaldustcom/index.html"
   }
 ];
