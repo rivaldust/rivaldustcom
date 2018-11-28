@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/rivaldustcom/precache-manifest.c63d8040ac3b089f670905e9d64a1c6d.js"
+  "/rivaldustcom/precache-manifest.a1078ce75f55718dc4079199982a1220.js"
 );
 
 workbox.clientsClaim();
