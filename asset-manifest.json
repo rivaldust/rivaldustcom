@@ -1,7 +1,7 @@
 {
   "main.css": "/rivaldustcom/static/css/main.254970d1.chunk.css",
-  "main.js": "/rivaldustcom/static/js/main.59315f70.chunk.js",
-  "main.js.map": "/rivaldustcom/static/js/main.59315f70.chunk.js.map",
+  "main.js": "/rivaldustcom/static/js/main.5b5f6a67.chunk.js",
+  "main.js.map": "/rivaldustcom/static/js/main.5b5f6a67.chunk.js.map",
   "static/css/1.47ea792f.chunk.css": "/rivaldustcom/static/css/1.47ea792f.chunk.css",
   "static/js/1.3c5cd640.chunk.js": "/rivaldustcom/static/js/1.3c5cd640.chunk.js",
   "static/js/1.3c5cd640.chunk.js.map": "/rivaldustcom/static/js/1.3c5cd640.chunk.js.map",
@@ -12,6 +12,6 @@
   "static/media/Sniper_CityScape.jpg": "/rivaldustcom/static/media/Sniper_CityScape.ac2be595.jpg",
   "static/css/1.47ea792f.chunk.css.map": "/rivaldustcom/static/css/1.47ea792f.chunk.css.map",
   "index.html": "/rivaldustcom/index.html",
-  "precache-manifest.365575fadfa3947ce46f6b928f5ae054.js": "/rivaldustcom/precache-manifest.365575fadfa3947ce46f6b928f5ae054.js",
+  "precache-manifest.c63d8040ac3b089f670905e9d64a1c6d.js": "/rivaldustcom/precache-manifest.c63d8040ac3b089f670905e9d64a1c6d.js",
   "service-worker.js": "/rivaldustcom/service-worker.js"
 }
