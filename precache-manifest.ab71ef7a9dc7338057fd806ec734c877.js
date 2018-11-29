@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/Sniper_CityScape.ac2be595.jpg"
   },
   {
-    "revision": "5ff7ba897742ce121c09",
+    "revision": "73bbdef882255156a990",
     "url": "/static/css/main.2abd839a.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/static/media/rival_dust_icon_header.3c56f235.png"
   },
   {
-    "revision": "5ff7ba897742ce121c09",
-    "url": "/static/js/main.5ff7ba89.chunk.js"
+    "revision": "73bbdef882255156a990",
+    "url": "/static/js/main.73bbdef8.chunk.js"
   },
   {
     "revision": "3dab2a969960afacfb1c317b695b6bb2",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/static/css/1.3896e21d.chunk.css"
   },
   {
-    "revision": "de2c8c3fc704820ddc63d54292615b4f",
+    "revision": "0ddf2a8958027d0997415c3eabc8a384",
     "url": "/index.html"
   }
 ];
