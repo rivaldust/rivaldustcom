@@ -1,7 +1,7 @@
 {
-  "main.css": "/static/css/main.ec0f0490.chunk.css",
-  "main.js": "/static/js/main.a406ee42.chunk.js",
-  "main.js.map": "/static/js/main.a406ee42.chunk.js.map",
+  "main.css": "/static/css/main.ca082a0a.chunk.css",
+  "main.js": "/static/js/main.f1a3ed2c.chunk.js",
+  "main.js.map": "/static/js/main.f1a3ed2c.chunk.js.map",
   "static/css/1.3896e21d.chunk.css": "/static/css/1.3896e21d.chunk.css",
   "static/js/1.78b69628.chunk.js": "/static/js/1.78b69628.chunk.js",
   "static/js/1.78b69628.chunk.js.map": "/static/js/1.78b69628.chunk.js.map",
@@ -14,9 +14,9 @@
   "static/media/ZLiRP_GamePlay_3.gif": "/static/media/ZLiRP_GamePlay_3.960cb252.gif",
   "static/media/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg": "/static/media/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.f95ad15b.svg",
   "static/media/Sniper_CityScape.jpg": "/static/media/Sniper_CityScape.ac2be595.jpg",
-  "static/css/main.ec0f0490.chunk.css.map": "/static/css/main.ec0f0490.chunk.css.map",
   "static/css/1.3896e21d.chunk.css.map": "/static/css/1.3896e21d.chunk.css.map",
+  "static/css/main.ca082a0a.chunk.css.map": "/static/css/main.ca082a0a.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.8d1c9650c21cc44521bf214e430004d7.js": "/precache-manifest.8d1c9650c21cc44521bf214e430004d7.js",
+  "precache-manifest.1f00aa53328c3be3c9df9f67a21ef198.js": "/precache-manifest.1f00aa53328c3be3c9df9f67a21ef198.js",
   "service-worker.js": "/service-worker.js"
 }
